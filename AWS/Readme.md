@@ -1,1 +1,1 @@
-File for AWS Drawings
+Repository for AWS diagrams to facilitate learning.
