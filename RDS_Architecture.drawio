@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T19:16:56.645Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WGYFFY-MK9HlZTXW95NE" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T19:18:11.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XrQqGKB405pLPM7ukXBS" version="20.8.13" type="github">
   <diagram id="stbyG8PFdSv3hAW9tTvB" name="Page-1">
     <mxGraphModel dx="2044" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="-70" y="80" width="130" height="480" as="geometry" />
         </mxCell>
         <mxCell id="EKmpy8bJZApXXMo4z5-l-4" value="Internet" style="fillColor=#FFE6CC;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" vertex="1" parent="1">
-          <mxGeometry x="830" y="80" width="130" height="480" as="geometry" />
+          <mxGeometry x="830" y="80" width="140" height="480" as="geometry" />
         </mxCell>
         <mxCell id="EKmpy8bJZApXXMo4z5-l-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;fillColor=#99FF99;" edge="1" parent="1" source="EKmpy8bJZApXXMo4z5-l-9" target="EKmpy8bJZApXXMo4z5-l-11">
           <mxGeometry relative="1" as="geometry">
@@ -178,11 +178,11 @@
         <mxCell id="EKmpy8bJZApXXMo4z5-l-49" value="Primary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EKmpy8bJZApXXMo4z5-l-51" value="VPN or Direct Connect to RDS&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="350" width="190" height="30" as="geometry" />
+        <mxCell id="EKmpy8bJZApXXMo4z5-l-51" value="Access via VPC&lt;br&gt;VPN or Direct Connect &lt;br&gt;to RDS&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="372" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKmpy8bJZApXXMo4z5-l-52" value="RDS can be configured&lt;br&gt;&amp;nbsp;with public IP addressing &lt;br&gt;and be reachable over the internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="750" y="210" width="210" height="60" as="geometry" />
+        <mxCell id="EKmpy8bJZApXXMo4z5-l-52" value="RDS can be configured&lt;br&gt;&amp;nbsp;with public IP addressing &lt;br&gt;and be reachable &lt;br&gt;over the internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815" y="225" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
