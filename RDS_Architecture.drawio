@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T16:55:17.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="x66cHSYvgpMy-nz4ylFz" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T19:16:56.645Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WGYFFY-MK9HlZTXW95NE" version="20.8.13" type="github">
   <diagram id="stbyG8PFdSv3hAW9tTvB" name="Page-1">
     <mxGraphModel dx="2044" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -177,6 +177,12 @@
         </mxCell>
         <mxCell id="EKmpy8bJZApXXMo4z5-l-49" value="Primary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EKmpy8bJZApXXMo4z5-l-51" value="VPN or Direct Connect to RDS&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="350" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EKmpy8bJZApXXMo4z5-l-52" value="RDS can be configured&lt;br&gt;&amp;nbsp;with public IP addressing &lt;br&gt;and be reachable over the internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="210" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
