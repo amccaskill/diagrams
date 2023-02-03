@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T16:48:11.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rg9WkPBta6dHkbuhPs3o" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T16:49:56.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1uTsK2LYn3AF52nlhmkL" version="20.8.13" type="github">
   <diagram id="stbyG8PFdSv3hAW9tTvB" name="Page-1">
     <mxGraphModel dx="2044" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
           <mxGeometry x="187" y="485" width="23" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EKmpy8bJZApXXMo4z5-l-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="563.5" y="485" width="23" height="35" as="geometry" />
+          <mxGeometry x="604" y="327.5" width="23" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EKmpy8bJZApXXMo4z5-l-32" value="Dedicated Storage&lt;br&gt;EBS per instance&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="145" y="520" width="120" height="40" as="geometry" />
@@ -144,6 +144,15 @@
         </mxCell>
         <mxCell id="EKmpy8bJZApXXMo4z5-l-39" value="Asynchronous&lt;br&gt;Replication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EKmpy8bJZApXXMo4z5-l-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="429" y="493" width="23" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EKmpy8bJZApXXMo4z5-l-41" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="242" y="334" width="23" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EKmpy8bJZApXXMo4z5-l-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="334" width="23" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
