@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T17:34:39.804Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sNYjro1GflbFds0EtKrj" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T17:42:03.097Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JGpemUdMAVFx6BBIUqfL" version="20.8.16" type="github">
   <diagram name="Page-1" id="wOKEn3hQkN-UBENzaWrb">
     <mxGraphModel dx="2450" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,6 +39,18 @@
         </mxCell>
         <mxCell id="WdIabkN9K9MqTjbVxGlW-13" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.wireless_access_point;" vertex="1" parent="1">
           <mxGeometry x="630" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WdIabkN9K9MqTjbVxGlW-19" value="" style="whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="880" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WdIabkN9K9MqTjbVxGlW-20" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.wireless_access_point;" vertex="1" parent="1">
+          <mxGeometry x="400" y="960" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WdIabkN9K9MqTjbVxGlW-21" value="" style="whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="920" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WdIabkN9K9MqTjbVxGlW-22" value="" style="whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="870" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
