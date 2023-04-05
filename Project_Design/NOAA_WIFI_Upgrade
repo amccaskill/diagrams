@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T17:08:03.517Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZIqNUou8Oygr-5LI7PNM" version="21.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-05T17:09:43.857Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vZiKjdVrXSDtZ-S5oqop" version="21.1.2" type="github" pages="2">
   <diagram name="Page-1" id="wOKEn3hQkN-UBENzaWrb">
     <mxGraphModel dx="1225" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,6 +89,21 @@
         </mxCell>
         <mxCell id="bQ7eP5yP8CnbXWYiZC8N-12" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.wireless_lan_controller;" vertex="1" parent="1">
           <mxGeometry x="320" y="450" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bQ7eP5yP8CnbXWYiZC8N-15" value="Internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bQ7eP5yP8CnbXWYiZC8N-16" value="Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bQ7eP5yP8CnbXWYiZC8N-17" value="BKUP Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bQ7eP5yP8CnbXWYiZC8N-18" value="Switch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bQ7eP5yP8CnbXWYiZC8N-19" value="Wireless Controller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="505" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
